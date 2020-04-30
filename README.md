@@ -9,4 +9,8 @@ This repository is for showing how Git and GitHub work
 So I don't forget anything
 Sample website with plenty of files for demos
 
-This is GIT project for class and will store the important hints for the student.
+This is GIT project for class and will store the important hints for the student.\
+Get comparisoon 
+This is one of the most entertaining courses
+## GITHUB content
+Comparison with repository
