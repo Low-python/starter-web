@@ -9,6 +9,7 @@ Why have you stubled on this page home boy.
 ## Purpose
 So I don't forget anything
 Sample website with plenty of files for demos
+Adding GIT rebase lecture changes
 
 This is GIT project for class and will store the important hints for the student.\
 Get comparisoon 
