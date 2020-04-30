@@ -4,6 +4,7 @@ introduction
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Why have you stubled on this page home boy.
 
 ## Purpose
 So I don't forget anything
