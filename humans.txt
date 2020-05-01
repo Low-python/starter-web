@@ -1,8 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+<<<<<<< HEAD
 # this is another bogus change for the rebase exercise
 # OOFF  more changes # 2 for conflict
 
+=======
+# i am modifying this file in the my branch area versus master
 # TEAM
 # (30 April 814PM MOre changes )
     <name> -Waren Low- <role> -- <twitter>
@@ -11,7 +14,6 @@
 
     Joshua tandy
 	joshua.tandy@dorkable.com
-	Thanks to my students.
 
 # TECHNOLOGY COLOPHON
 
