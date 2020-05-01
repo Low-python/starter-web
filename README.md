@@ -18,3 +18,4 @@ Get comparisoon
 This is one of the most entertaining courses
 ## GITHUB content
 Comparison with repository
+Adding the part about stash here 5/1/20
