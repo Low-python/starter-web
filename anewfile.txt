@@ -1,0 +1,2 @@
+#adding new file in GIT  project
+# this will not be tracked in Stash
