@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 # this is another bogus change for the rebase exercise
 # OOFF  more changes # 2 for conflict
+Adding important notes on GIT Stash
 
 =======
 # i am modifying this file in the my branch area versus master
